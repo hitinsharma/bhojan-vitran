@@ -1,0 +1,456 @@
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[05-Jan-2024 09:20:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[05-Jan-2024 09:20:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[05-Jan-2024 09:20:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[05-Jan-2024 09:20:07 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:20:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[05-Jan-2024 09:21:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[05-Jan-2024 09:21:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[05-Jan-2024 09:21:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[05-Jan-2024 09:21:24 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:21:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[05-Jan-2024 09:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[05-Jan-2024 09:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[05-Jan-2024 09:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[05-Jan-2024 09:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[05-Jan-2024 09:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[05-Jan-2024 09:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[05-Jan-2024 09:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[05-Jan-2024 09:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[05-Jan-2024 09:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[05-Jan-2024 09:21:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[05-Jan-2024 09:21:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[05-Jan-2024 09:21:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[05-Jan-2024 09:21:34 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:21:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[05-Jan-2024 09:23:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[05-Jan-2024 09:23:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[05-Jan-2024 09:23:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[05-Jan-2024 09:23:58 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:23:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[05-Jan-2024 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[05-Jan-2024 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[05-Jan-2024 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[05-Jan-2024 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[05-Jan-2024 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[05-Jan-2024 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[05-Jan-2024 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[05-Jan-2024 09:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[05-Jan-2024 09:23:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[05-Jan-2024 09:24:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[05-Jan-2024 09:24:04 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[05-Jan-2024 09:25:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[05-Jan-2024 09:25:17 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[05-Jan-2024 09:25:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/feedback.php on line 29
+[05-Jan-2024 09:25:26 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/feedback.php on line 30
+[05-Jan-2024 09:25:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/feedback.php on line 137
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[05-Jan-2024 09:49:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[05-Jan-2024 09:49:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[05-Jan-2024 09:49:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[05-Jan-2024 09:49:16 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 09:49:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[05-Jan-2024 10:39:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[05-Jan-2024 10:39:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[05-Jan-2024 10:39:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[05-Jan-2024 10:39:28 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 10:39:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[05-Jan-2024 17:09:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[05-Jan-2024 17:09:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[05-Jan-2024 17:09:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[05-Jan-2024 17:09:16 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[05-Jan-2024 17:09:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[08-Jan-2024 05:47:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[08-Jan-2024 05:47:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[08-Jan-2024 05:47:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[08-Jan-2024 05:47:10 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:47:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[08-Jan-2024 05:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[08-Jan-2024 05:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[08-Jan-2024 05:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[08-Jan-2024 05:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[08-Jan-2024 05:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[08-Jan-2024 05:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[08-Jan-2024 05:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[08-Jan-2024 05:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[08-Jan-2024 05:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[08-Jan-2024 05:47:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/feedback.php on line 29
+[08-Jan-2024 05:47:33 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/feedback.php on line 30
+[08-Jan-2024 05:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/feedback.php on line 137
+[08-Jan-2024 05:47:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:47:34 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[08-Jan-2024 05:47:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[08-Jan-2024 05:47:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[08-Jan-2024 05:47:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[08-Jan-2024 05:47:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[08-Jan-2024 05:47:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[08-Jan-2024 05:47:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[08-Jan-2024 05:47:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[08-Jan-2024 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[08-Jan-2024 05:47:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[08-Jan-2024 05:47:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:47:36 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:47:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:47:40 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:47:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 142
+[08-Jan-2024 05:47:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/hitintec/public_html/project2/admin/donate.php on line 146
+[08-Jan-2024 05:47:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:47:43 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:47:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 142
+[08-Jan-2024 05:47:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/hitintec/public_html/project2/admin/donate.php on line 146
+[08-Jan-2024 05:47:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:47:46 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:47:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 142
+[08-Jan-2024 05:47:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/hitintec/public_html/project2/admin/donate.php on line 146
+[08-Jan-2024 05:47:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:47:49 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:47:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 142
+[08-Jan-2024 05:47:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/hitintec/public_html/project2/admin/donate.php on line 146
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[08-Jan-2024 05:47:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[08-Jan-2024 05:47:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[08-Jan-2024 05:47:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[08-Jan-2024 05:47:51 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:47:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:47:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:47:53 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[08-Jan-2024 05:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[08-Jan-2024 05:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[08-Jan-2024 05:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[08-Jan-2024 05:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[08-Jan-2024 05:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[08-Jan-2024 05:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[08-Jan-2024 05:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[08-Jan-2024 05:47:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[08-Jan-2024 05:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[08-Jan-2024 05:48:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[08-Jan-2024 05:48:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[08-Jan-2024 05:48:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[08-Jan-2024 05:48:13 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:48:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:48:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:48:14 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:48:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/feedback.php on line 29
+[08-Jan-2024 05:48:16 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/feedback.php on line 30
+[08-Jan-2024 05:48:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/feedback.php on line 137
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[08-Jan-2024 05:48:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[08-Jan-2024 05:48:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[08-Jan-2024 05:48:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[08-Jan-2024 05:48:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[08-Jan-2024 05:48:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[08-Jan-2024 05:48:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[08-Jan-2024 05:48:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[08-Jan-2024 05:48:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[08-Jan-2024 05:48:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/admin.php on line 29
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 30
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 127
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 128
+[08-Jan-2024 05:51:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 129
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 138
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 139
+[08-Jan-2024 05:51:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 140
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 149
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/admin.php on line 150
+[08-Jan-2024 05:51:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/admin.php on line 151
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/admin.php on line 172
+[08-Jan-2024 05:51:02 UTC] PHP Notice:  Undefined variable: conn in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:51:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/hitintec/public_html/project2/admin/admin.php on line 177
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[08-Jan-2024 05:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[08-Jan-2024 05:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[08-Jan-2024 05:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[08-Jan-2024 05:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[08-Jan-2024 05:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[08-Jan-2024 05:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[08-Jan-2024 05:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[08-Jan-2024 05:51:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[08-Jan-2024 05:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[08-Jan-2024 05:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[08-Jan-2024 05:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[08-Jan-2024 05:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[08-Jan-2024 05:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[08-Jan-2024 05:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[08-Jan-2024 05:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[08-Jan-2024 05:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[08-Jan-2024 05:51:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[08-Jan-2024 05:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[08-Jan-2024 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[08-Jan-2024 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[08-Jan-2024 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[08-Jan-2024 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[08-Jan-2024 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[08-Jan-2024 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[08-Jan-2024 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[08-Jan-2024 05:51:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[08-Jan-2024 05:51:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/analytics.php on line 32
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 33
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 130
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 131
+[08-Jan-2024 05:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 132
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 141
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 142
+[08-Jan-2024 05:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 143
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 152
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 153
+[08-Jan-2024 05:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 154
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 170
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 171
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 172
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 173
+[08-Jan-2024 05:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 174
+[08-Jan-2024 05:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 175
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 177
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 178
+[08-Jan-2024 05:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 179
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 181
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 182
+[08-Jan-2024 05:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 183
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/analytics.php on line 185
+[08-Jan-2024 05:52:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hitintec/public_html/project2/admin/analytics.php on line 186
+[08-Jan-2024 05:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hitintec/public_html/project2/admin/analytics.php on line 187
+[08-Jan-2024 05:52:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/donate.php on line 29
+[08-Jan-2024 05:52:25 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/donate.php on line 30
+[08-Jan-2024 05:52:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/admin/feedback.php on line 29
+[08-Jan-2024 05:52:28 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/feedback.php on line 30
+[08-Jan-2024 05:52:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/admin/feedback.php on line 137
