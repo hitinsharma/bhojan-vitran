@@ -1,9 +1,0 @@
-[05-Jan-2024 10:31:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
-[05-Jan-2024 10:31:50 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
-[05-Jan-2024 10:33:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
-[05-Jan-2024 10:33:13 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
-[05-Jan-2024 10:38:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
-[05-Jan-2024 10:38:30 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
-[06-Jan-2024 07:35:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
-[06-Jan-2024 07:35:32 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
-[06-Jan-2024 16:23:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hitintec/public_html/project2/forgot_pass.php on line 97
