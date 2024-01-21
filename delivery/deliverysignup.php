@@ -61,7 +61,7 @@ if(isset($_POST['sign']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Animated Login Form | CodingNepal</title>
+    <title>Animated Login Form </title>
     <link rel="stylesheet" href="deliverycss.css">
   </head>
   <body>

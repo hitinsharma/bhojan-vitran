@@ -119,33 +119,33 @@ if(isset($_POST['sign']))
                         <!-- <label for="district">Location:</label> -->
                         <!-- <br> -->
                         <select id="district" name="district" style="padding:10px; padding-left: 20px;">
-                          <option value="chennai">Mathura</option>
-  <option value="kancheepuram">Etawah</option>
-  <option value="thiruvallur">Delhi</option>
-  <option value="vellore">Noida</option>
-  <option value="tiruvannamalai">Saharanpur</option>
-  <option value="tiruvallur">Meerut</option>
-  <option value="tiruppur">Muzaffarnagar</option>
-  <option value="coimbatore">Etah</option>
-  <option value="erode">Firozabad</option>
-  <option value="salem">Ghaziabad</option>
-  <option value="namakkal">Shamli</option>
-  <option value="tiruchirappalli">Bijnor</option>
-  <option value="thanjavur">Hapur</option>
-  <option value="pudukkottai">Moradabad</option>
-  <option value="karur">Bareilly</option>
-  <option value="ariyalur">Aligarh</option>
-  <option value="perambalur">Budaun</option>
-  <option value="madurai" selected>Bulandshahr</option>
-  <option value="virudhunagar">Agra</option>
-  <option value="dindigul">Hathras</option>
-  <option value="ramanathapuram">Kasganj</option>
-  <option value="sivaganga">Shahjahanpur</option>
-  <option value="thoothukkudi">Mainpuri</option>
-  <option value="tirunelveli">Kanpur</option>
-  <option value="tiruppur">Lucknow</option>
-  <option value="tenkasi">Varanasi</option>
-  <option value="kanniyakumari">Gorakhpur</option>
+                          <option value="mathura">Mathura</option>
+  <option value="etawah">Etawah</option>
+  <option value="delhi">Delhi</option>
+  <option value="noida">Noida</option>
+  <option value="saharanpur">Saharanpur</option>
+  <option value="meerut">Meerut</option>
+  <option value="muzaffarnagar">Muzaffarnagar</option>
+  <option value="etah">Etah</option>
+  <option value="firozabad">Firozabad</option>
+  <option value="ghaziabad">Ghaziabad</option>
+  <option value="shamli">Shamli</option>
+  <option value="bijnor">Bijnor</option>
+  <option value="hapur">Hapur</option>
+  <option value="moradabad">Moradabad</option>
+  <option value="bareilly">Bareilly</option>
+  <option value="aligarh">Aligarh</option>
+  <option value="budaun">Budaun</option>
+  <option value="bulandshahr" selected>Bulandshahr</option>
+  <option value="agra">Agra</option>
+  <option value="hathras">Hathras</option>
+  <option value="kasganj">Kasganj</option>
+  <option value="shahjahanpur">Shahjahanpur</option>
+  <option value="mainpuri">Mainpuri</option>
+  <option value="kanpur">Kanpur</option>
+  <option value="lucknow">Lucknow</option>
+  <option value="varanasi">Varanasi</option>
+  <option value="gorakhpur">Gorakhpur</option>
                         </select> 
                         
 

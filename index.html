@@ -16,7 +16,7 @@
     <meta property="og:type" content="website" />
     <meta
       property="og:url"
-      content="https://www.hitin.tech/"
+      content="https://www.hitin.tech/project2/index.html"
     />
     <meta property="og:title" content="भोजन वितरण - Food Waste Management System" />
     <meta
@@ -32,7 +32,7 @@
     <meta property="twitter:card" content="summary_large_image" />
     <meta
       property="twitter:url"
-      content="https://www.hitin.tech/"
+      content="https://hitin.tech/project2/index.html"
     />
     <meta property="twitter:title" content="भोजन वितरण - Food Waste Management System" />
     <meta
@@ -54,6 +54,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;0,700;0,800;1,400;1,600&display=swap');
     
 
+body {
+      background-image: url('img/index-bg.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      min-height: 100vh;
+      background-color: #f0f0f0;
+      margin: 0; /* Remove default body margin */
+    }
+
+    .content {
+      padding: 20px;
+      color: #333;
+    }
+
+    /* Mobile-friendly styles using media queries */
+    @media (max-width: 600px) {
+      .content {
+        padding: 10px;
+      }
+    }
+    .feedback {
+      background-color: #06C167;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 4px;
+      border-color: #06C167;
+    }
+
+    #mybutton {
+      position: fixed;
+      bottom: 20px;
+      right: 10px;
+    }
 
     .logo{
         padding-top: 30px;
@@ -148,8 +182,12 @@
 <div class="add">
  
 </div>
+    
 <footer>
     <p class="logo"> Made with ❤ by <b style="color: #06C167; ">Hitin Sharma</b></p>
+    <!--<a href="contact/index.html" class="feedback" id="mybutton">Contact Us</a>  -->
+    <a href="contact/index.html" class="feedback" id="mybutton"><i class="fas fa-comment-alt"></i></a>
+
 </footer>
 
 
